@@ -12,6 +12,8 @@
 
           printf("pranav nikam\n");
           printf("major: computer science\n");
-
+          printf("Akshita Goel\n");
+          printf("major: computer science\n");
+          
           return 0;
       }
